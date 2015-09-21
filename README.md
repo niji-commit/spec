@@ -1,6 +1,9 @@
-# Standard Commit Format
+# Niji Commit Format
+*draft: 1.0*
 
-**Standard Commit Format** is a git commit message format that I utilize when commiting to repositories of my own and others, unless otherwise stated in the projects Contributing guide. Since I commonly re-use this, I've decided to make a dedicated location for its existance and simply link to this document as a reference.
+**Niji Commit Format** is a git commit message format created over time by adopting various styles and refining them until they could be consolidated into an understandable and approachable format for everyone.
+
+It is created to be easy to adopt and understand, while making your git log easier to scan, manage, and consume.
 
 ## Message Format
 

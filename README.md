@@ -1,4 +1,4 @@
-# Niji Commit Format
+# Commit Message Format Specification
 *draft: 1.0*
 
 **Niji Commit Format** is a git commit message format created over time by adopting various styles and refining them until they could be consolidated into an understandable and approachable format for everyone.
